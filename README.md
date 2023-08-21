@@ -4,7 +4,7 @@ As a dedicated web developer, I am ready to dive deep into problems playing a te
 
 ## Skills & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,react,django,figma,github,replit,express,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,react,django,figma,github,replit,express,tailwind,mongodb,postgres,nodejs,bootstrap)](https://skillicons.dev)
 
 
 - 📫 How to reach me: 
